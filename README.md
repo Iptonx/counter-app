@@ -10,7 +10,7 @@ Un contador simple y elegante construido con **Next.js**, **React**, **TypeScrip
 - **Totalmente responsive** - Funciona perfectamente en móvil, tablet y desktop
 - **Context API** - Gestión de estado centralizada y eficiente
 - **UI Components** - Componentes reutilizables basados en Radix UI
-- ♿ **Accesible** - Buenas prácticas de accesibilidad incluidas
+- **Accesible** - Buenas prácticas de accesibilidad incluidas
 
 ## Comenzar
 
