@@ -20,7 +20,16 @@ export default function Home() {
         </div>
         <footer>
           <div className="w-full max-w-3xl px-4 sm:px-8 py-4 text-center text-sm text-zinc-500 dark:text-zinc-400">
-            Desarrollado por Ipton • Inspirado en{" "}
+            Desarrollado por{" "}
+            <a
+              href="https://github.com/Iptonx "
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-zinc-700 dark:hover:text-zinc-300 transition-colors"
+            >
+              Ipton
+            </a>{" "}
+            • Inspirado en{" "}
             <a
               href="https://simplecounter.app/"
               target="_blank"
